@@ -15,7 +15,7 @@ This is a simple command-line interface (CLI) application for managing tasks. Yo
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/lephuocloc1729/task_tracker_cli
+   git clone https://github.com/Stellay2976/JAVA-Practice
    cd task_tracker_cli
 
 2. **Compile the source code:**
@@ -55,5 +55,3 @@ java TaskCLIApp list
 java TaskCLIApp list todo
 java TaskCLIApp list in-progress
 java TaskCLIApp list done
-
-```
